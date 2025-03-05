@@ -30,7 +30,7 @@ The Career Path CLI Application is an innovative tool that empowers users to nav
 ### Installation
 #### Clone the Repository:
 ```sh
-git clone https://github.com/your-username/career-path-cli.git
+git clone https://github.com/anuragchvn-blip/Career-cli.git
 ```
 #### Install Dependencies:
 ```sh
